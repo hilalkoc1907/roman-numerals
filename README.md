@@ -14,6 +14,10 @@ Komut satırı (CLI) ve tarayıcıda çalışan bir web arayüzü içerir.
 - Sonucu panoya kopyalama butonu
 - Eskitme (parşömen) temalı arayüz
 
+## Ekran Görüntüleri
+
+![Arayüz](screenshots/arayüz.png)
+
 ## Kurulum
 
 Python 3.9 veya üstü gerekir.
